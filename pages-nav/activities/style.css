@@ -1,0 +1,21 @@
+.title-activities {
+	transform: translateY(50px);
+	text-align: center;
+}
+.list-activities {
+	transform: translateY(50px);
+	width: 90%;
+	margin: auto;
+}
+.activities-name {
+	font-size: 20px;
+	line-height: 30px;
+	color: #555;
+}
+.activities-name i {
+	font-size: 10px;
+	margin-right: 10px;
+}
+.footer {
+	margin-top: 50px;
+}

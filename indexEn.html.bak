@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="styleEnBanner.css">
+	<!-- FONTS -->
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap" rel="stylesheet"> 
+	<!-- ICONS -->
+	<script src="https://kit.fontawesome.com/99f28131b8.js" crossorigin="anonymous"></script>
+	<title>NATIONAL TOURS</title>
+</head>
+<body>
+	<div class="content-page">
+		<div class="header">
+			<header>
+				<div class="content-header">
+					<ul class="info-header">
+						<img src="Imagenes/logo.png" class="logo">
+						<div class="header-navegation">
+							<li class="li-header li-header1"><a href="#" class="a-header">Activities<img src="Imagenes/arrow-header-bottom.png" class="arrow"></a>
+								<ul class="bar-header bar-header1">
+									<li><a href="pages-activities-nav/culturales/culturales.html">Cultural visits</a></li><br>
+									<li><a href="pages-activities-nav/senderismo/senderismo.html">Walks, Hiking</a></li><br>
+									<li><a href="pages-activities-nav/acuaticas/acuaticas.html">Water activities</a></li><br>
+									<li><a href="pages-activities-nav/gastronomia/gastronomia.html">Gastronomy</a></li><br>
+									<li><a href="pages-activities-nav/fauna-flora/fauna-flora.html">Fauna and Flora</a></li><br>
+									<li><a href="pages-activities-nav/museos/museos.html">Monuments Museum</a></li><br>
+									<li><a href="pages-activities-nav/artesanias/artesanias.html">Handicrafts</a></li><br>
+									<li><a href="pages-activities-nav/buceo/buceo.html">Dive</a></li><br>
+									<li><a href="pages-activities-nav/paseos-caballo/paseos-caballo.html">Horse Riding</a></li><br>
+									<li><a href="pages-activities-nav/arqueologia/arqueologia.html">Archaeological Visits</a></li><br>
+									<li><a href="pages-activities-nav/shows/shows.html">Shows and Spectacles</a></li><br>
+									<li><a href="pages-activities-nav/cata-licores/cata-licores.html">Wine and Spirits Tasting</a></li><br>
+									<li><a href="pages-activities-nav/termales/termales.html">Thermal</a></li><br>
+									<li><a href="pages-activities-nav/cuatrimotos/cuatrimotos.html">ATVs, Quads</a></li><br>
+									<li><a href="pages-activities-nav/parapente/parapente.html">Paragliding</a></li><br>
+									<li><a href="pages-activities-nav/pesca/pesca.html">Fishing</a></li><br>
+									<li><a href="pages-activities-nav/aereo/aereo.html">Air Activities</a></li><br>
+									<li><a href="pages-activities-nav/rapel/rapel.html">Rappelling</a></li><br>
+									<li><a href="pages-activities-nav/canotaje/canotaje.html">Rafting</a></li><br>
+								</ul>
+							</li>
+							<li class="li-header li-header2"><a href="#" class="a-header">Places<img src="Imagenes/arrow-header-bottom.png" class="arrow"></a>
+								<ul class="bar-header bar-header2">
+									<li><a href="city-tours/antioquia/antioquia.html">Antioquia</a></li><br>
+									<li><a href="city-tours/boyaca/boyaca.html">Boyacá</a></li><br>
+									<li><a href="city-tours/cundinamarca/cundinamarca.html">Cundinamarca</a></li><br>
+									<li><a href="city-tours/huila/huila.html">Huila</a></li><br>
+									<li><a href="city-tours/meta/meta.html">Meta</a></li><br>
+									<li><a href="city-tours/risaralda/risaralda.html">Risaralda</a></li><br>
+									<li><a href="city-tours/tolima/tolima.html">Tolima</a></li><br>
+									<li><a href="city-tours/santander/santander.html">Santander</a></li><br>		
+									<li><a href="city-tours/la-costa/costa.html">The Caribbean Coast</a></li><br>		
+								</ul>
+							</li>
+						</div>
+						<li class="li-header li-header3"><a href="index.html" class="a-header a-header-leng">Español</a></li>										
+						<li class="li-header li-header4"><a href="https://wa.me/573105820088"><i class="fa-solid fa-phone"></i></a></li>						
+						<li class="li-header li-header5"><a href="https://wa.me/573105820088" target="__BLANK"><i class="fa-brands fa-whatsapp whatsapp-header"></i></a></li>
+					</ul>
+				</div>
+			</header>
+			<!-- RESPONSIVE -->
+			<header>
+				<nav class="nav-responsive">
+					<ul class="nav-responsive-ul">
+					  <div class="nav-responsive-button-content">
+						<div class="nav-responsive-button-container">
+							<div class="nav-responsive-button">
+							  <li class="icon-responsive"><a href="#"><i class="fas fa-bars"></i></a></li>
+						    </div>
+						</div>
+					  </div>
+						<div class="nav-li-container">
+						    <li class="nav-li-responsive"><a href="pages-nav/activities/index.html"><i class="fa-solid fa-puzzle-piece"></i>Activities</a></li>
+						    <li class="nav-li-responsive"><a href="pages-nav/places/index.html"><i class="fa-sharp fa-solid fa-place-of-worship"></i>Places</a></li>
+						    <div class="container-contact-nav">
+							    <li class="li-header li-header3"><a href="index.html" class="a-header a-header-leng">Español</a></li>										
+								<li class="li-header li-header4"><a href="https://wa.me/573105820088"><i class="fa-solid fa-phone"></i></a></li>						
+								<li class="li-header li-header5"><a href="https://wa.me/573105820088" target="__BLANK"><i class="fa-brands fa-whatsapp whatsapp-header"></i></a></li>
+						    </div>
+						</div>
+					</ul>
+				</nav>
+			</header>
+		</div>
+		<div class="main">
+			<main>
+				<h1 class="title-populars title-populars1-bug">Destinos Populares</h1>
+				<h1 class="title-populars title-populars1">Popular Destinations</h1>
+				<div class="most-popular-destinations">
+					<div class="grid-container">
+					    <div class="most-popular-img img-populars1">
+					    	<a href="city-tours/cundinamarca/bogota/bogota.html">
+					    		<div class="text-content-populars">
+						    		<h3 class="text-city-populars">Bogota D.C</h3>
+						    	</div>
+					    	</a>
+					     </div>
+					    <div class="most-popular-img img-populars2">
+					    	<a href="city-tours/antioquia/medellin/medellin.html">
+					    		<div class="text-content-populars">
+						    		<h3 class="text-city-populars">Medellin</h3>
+						    	</div>
+					    	</a>
+					    </div>
+					    <div class="most-popular-img img-populars3">
+					    	<a href="city-tours/santander/barichara/barichara.html">
+					    		<div class="text-content-populars">
+						    		<h3 class="text-city-populars">Barichara</h3>
+						    	</div>
+					    	</a>
+					    </div>
+					    <div class="most-popular-img img-populars4">
+					    	<a href="city-tours/boyaca/raquira/raquira.html">
+					    		<div class="text-content-populars">
+						    		<h3 class="text-city-populars">Raquira</h3>
+						    	</div>
+					    	</a>
+					    </div>
+					    <div class="most-popular-img img-populars5">
+					    	<a href="city-tours/boyaca/villa-de-leyva/villa-de-leyva.html">
+					    		<div class="text-content-populars">
+						    		<h3 class="text-city-populars">Villa De Leyva</h3>
+						    	</div>
+					    	</a>
+					    </div>
+					    <div class="most-popular-img img-populars6">
+					    	<a href="city-tours/la-costa/cartagena/cartagena.html">
+					    		<div class="text-content-populars">
+						    		<h3 class="text-city-populars">Cartagena</h3>
+						    	</div>
+					    	</a>
+					    </div>						 
+					    <div class="most-popular-img img-populars7">
+					    	<a href="city-tours/cundinamarca/zipaquira/zipaquira.html">
+					    		<div class="text-content-populars">
+						    		<h3 class="text-city-populars">Zipaquira</h3>
+						    	</div>
+					    	</a>
+					    </div>
+					</div>
+				</div>
+				<!-- CARDS / TOURS POPULARS -->
+				<h1 class="title-populars title-populars2">The Most Popular Tours</h1>
+				<div class="most-popular-tours">
+					<a href="city-tours/cundinamarca/bogota/tours/la-candelaria/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour1">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/bogota/la-candelaria.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">Tour of Candelaria, Bogota D.C.</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">Bogota D.C., Cundinamarca</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">7 Hours</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<a href="city-tours/cundinamarca/bogota/tours/catedral-sal/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour2">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/zipaquira/catedral-de-sal.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">Zipaquira Salt Cathedral Tour</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">Zipaquira, Cundinamarca</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">7 Hours</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<a href="city-tours/cundinamarca/bogota/tours/monserrate/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour3">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/bogota/monserrate.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">Walk through Monserrate, Bogota D.C.</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">Bogota D.C., Cundinamarca</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">7 Hours</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<a href="city-tours/cundinamarca/bogota/tours/city-tour/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour4">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/bogota/city-tour.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">City Tour through the Tourist Areas of Bogota</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">Bogota D.C., Cundinamarca</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">7 Hours</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<a href="city-tours/boyaca/villa-de-leyva/tours/city-tour/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour5">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/villa-de-leyva/tour.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">Complete Tour of Villa De Leyva</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">Villa De Leyva, Cundinamarca</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">Complete day (1)</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<a href="city-tours/boyaca/villa-de-leyva/tours/convento-ecce-homo/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour6">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/villa-de-leyva/ecce-homo.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">Tour of the Convent of Santo Ecce Homo</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">Villa De Leyva, Cundinamarca</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">7 Hours</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<a href="city-tours/cundinamarca/extra/guatavita/tour-guatavita/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour6">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/guatavita/guatavita.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">Complete Tour of the Town of Guatavita</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">Guatavita, Cundinamarca</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">7 Hours</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<a href="city-tours/cundinamarca/extra/nemocon-mina/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour6">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/nemocon/nemocon.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">Nemocon Salt Mines Tour</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">Nemocon, Cundinamarca</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">7 Hours</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<a href="city-tours/boyaca/raquira/tours/artesanias/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour6">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/raquira/raquira.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">Raquira Handicrafts Tour</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">Raquira, Boyaca</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">7 Hours</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<a href="city-tours/santander/extra/chicamocha/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour6">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/santander/cañon-del-chicamocha.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">Tour of the Chicamocha Canyon</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">Santander</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">7 Hours</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<a href="city-tours/cundinamarca/extra/choachi/la-chorrera/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour6">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/choachi/cascadas-del-choachi.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">Tour of the Choachi Waterfalls</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">Choachi, Cundinamarca</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">7 Hours</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<a href="city-tours/meta/extra/la-macarena/caño-cristales/index.html" class="catedral-de-sal-tour link-tour">
+						<div class="card-tour card-tour6">
+							<div class="card-tour-img">
+								<img src="Imagenes/Tours/meta/caño-cristales.jpg">
+							</div>
+							<div class="card-tour-info">
+								<div class="card-tour-name">
+									<h3 class="text-tour text-tour1">Complete Tour of Caño Cristales</h3>
+								</div>
+								<div class="card-tour-country">
+									<i class="fa-solid fa-location-dot text-tour text-tour2"></i>
+									<h3 class="text-tour text-tour3">La Macarena, Meta</h3>
+								</div>
+								<div class="card-tour-footer">
+									<div class="card-tour-footer-day">
+										<i class="fa-solid fa-clock text-tour text-tour8"></i>
+										<h3 class="time text-tour text-tour7">7 Hours</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</a>
+					<div class="button-end">
+						<a href="more-tours.html" class="button-a">See more Tours</a>
+					</div>
+				</div>
+			</main>
+		</div>
+		<div class="footer">
+			<footer class="contain-footer">
+				<div class="footer-content">
+					<div class="contact">
+						<div class="img-footer">
+							<a href="https://wa.me/573105820088" target="__BLANK"><i class="fa-brands fa-whatsapp icon-footer-whatsapp"></i></a>
+							<a href="https://wa.me/573105820088" target="__BLANK"><i class="fa-brands fa-facebook"></i></a>
+							<a href="aboutme.html"><i class="fa-solid fa-envelope"></i></a>
+						</div>
+					</div>
+					<div class="links-footer">
+						<a href="#" class="a-footer">Home</a>
+						<a href="aboutus.html" class="a-footer">About us</a>
+						<a href="https://wa.me/573105820088" target="__BLANK" class="a-footer">Contact</a>
+					</div>
+					<div class="payments">
+						<div class="img-footer">
+							<img src="Imagenes/metodos-de-pago/daviplata.png" class="img-payments-footer">
+							<img src="Imagenes/metodos-de-pago/mastercard.png" class="img-payments-footer">
+							<img src="Imagenes/metodos-de-pago/nequi.png" class="img-payments-footer">
+							<img src="Imagenes/metodos-de-pago/paypal.png" class="img-payments-footer">
+							<img src="Imagenes/metodos-de-pago/visa.png" class="img-payments-footer">
+							<img src="Imagenes/metodos-de-pago/codensa.png" class="img-payments-footer">
+						</div>
+					</div>
+
+				</div>
+			</footer>
+			<footer>
+				<div class="sub-footer">
+					<img src="Imagenes/logo.png" class="logo-footer">
+					<p class="text-end">
+						Francisco Julian Agudelo Buitrago - Web page developer<br>©2023 - Website credits
+					</p>
+					<img src="qr-portafolio.png" class="qr-portafolio">
+				</div>
+			</footer>
+		</div>
+	</div>
+</body>
+</html>

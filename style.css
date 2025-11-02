@@ -1,0 +1,543 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+}
+/* ENCABEZADO */
+.logo {
+	width: 115px;
+	position: absolute;
+	left: 5%;
+	transform: translate(-5%, 0);
+}
+.fa-phone {
+	color: #008fec;
+	font-size: 25px;
+}
+.fa-whatsapp {
+	color: #009c18;
+	font-size: 25px;
+
+}
+.fa-phone:hover {
+	filter: drop-shadow(0px 0px 10px );
+}
+.whatsapp-header:hover {
+	filter: drop-shadow(0px 0px 10px );
+}
+.bar-header li {
+	margin: 5px;
+}
+.bar-header li a {
+	color: #00112a;
+	font-size: 17px;
+}
+.bar-header li a:hover {
+	opacity: 0.8;
+}
+.header-navegation li ul {
+	display: none;
+	position: absolute;
+}
+.header-navegation li:hover > ul {
+	display:block;
+}
+
+.bar-header {
+	position: absolute;
+	padding: 10px;
+	border-radius: 10px;
+}
+.bar-header1 {
+	background-color: #feffe9;
+	left: 0%;
+	transform: translate(-0%, 0);
+	box-shadow: 0px 0px 18px -2px;
+}
+.bar-header2 {
+	background-color: #feffe9;
+	left: 132%;
+	transform: translate(-132%, 0);
+	box-shadow: 0px 0px 18px -2px;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
+a {
+	text-decoration: none;
+	user-select: none;
+}
+.header-navegation {
+	position: absolute;
+	left: 40%;
+	transform: translate(-40%, 0);
+}
+.li-header1 {
+	margin: 20px 100px 0 0;
+	font-size: 20px;
+}
+.li-header2 {
+	font-size: 20px;
+	margin: 20px 0 0 0;
+}
+.li-header3 {
+	width: 100px;
+	height: 30px;
+	background-color: #555;
+	text-align: center;
+	padding-top: 5px;
+	border-radius: 0 10px 10px 0;
+	box-shadow: 0px 0px 51px -3px rgba(0,0,0,0.66);
+	margin: 23px 20px 0 0;
+
+}
+.li-header4 {
+	width: 50px;
+	height: 30px;
+	background-color: #fff;
+	text-align: center;
+	padding-top: 2px;
+	margin: 23px 0 0 0;
+}
+.li-header5 {
+	width: 50px;
+	height: 30px;
+	background-color: #fff;
+	text-align: center;
+	padding-top: 2px;
+	border-radius: 10px 0 0 10px;
+	margin: 23px 0 0 0;
+
+}
+.li-header3, .li-header4, .li-header5 {
+	float: right;
+}
+.a-header {
+	color:  #feffe9;
+	font-weight: bold;
+}
+.a-header-leng {
+	color: #fff;
+	font-weight: bold;
+}
+.a-header-leng:hover {
+	opacity: 0.85;
+
+}
+.info-header {
+	margin-top: -2px;
+	background-image: url("Imagenes/banner.png");
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	height: 768px;
+}
+.arrow {
+	width: 10px;
+	margin-left: 5px;
+}
+
+/* CONTAIN */
+.grid-container {
+	display: grid;
+	flex-wrap: wrap;
+	grid-template-columns: repeat(auto-fill, minmax(400px,1fr));
+	grid-auto-rows: 100px;
+	grid-gap: 10px;
+	min-width: 250px;
+}
+.most-popular-destinations {
+	width: 90%;
+	margin: auto;
+}
+.title-populars1 {
+	text-align: center;
+	margin: 10px 0;
+	font-size: 25px;
+
+}
+.title-populars1-bug {
+	color: #fff;
+	user-select: none;
+}
+
+.title-populars2 {
+	text-align: center;
+	font-size: 25px;
+	margin: 10px 0;
+}
+.text-city-populars {
+	color: #feffe9;
+	font-size: 20px;
+}
+.text-content-populars {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	background: rgba(0, 0, 0, .4);
+	transition: .5s;
+	border-radius: 10px;
+
+}
+.text-content-populars:hover {
+	opacity: 1;
+}
+.img-populars1 {
+	background-image: url("Imagenes/bogota.jpg");	
+}
+.img-populars2 {
+	background-image: url("Imagenes/medellin.jpg");
+}
+.img-populars3 {
+	background-image: url("Imagenes/barichara.jpg");
+}
+.img-populars4 {
+	background-image: url("Imagenes/raquira.jpg");
+}
+.img-populars5 {
+	background-image: url("Imagenes/villa-de-leyva.jpg");
+}
+.img-populars6 {
+	background-image: url("Imagenes/cartagena.jpg");
+}
+.img-populars7 {
+	background-image: url("Imagenes/zipaquira.jpg");
+}
+.most-popular-img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	border-radius: 10px;
+	background-size: cover;
+
+}
+.most-popular-img:first-child {
+	grid-column: 1 / 2;
+	grid-row: 1 / 5;
+}
+.most-popular-img:nth-child(2) {
+	grid-column: 2 / 3;
+	grid-row: 1 / 4;
+}
+.most-popular-img:nth-child(3) {
+	grid-column: 3 / 4;
+	grid-row: 1 / 3;
+}
+.most-popular-img:nth-child(4) {
+	grid-column: 1 / 2;
+	grid-row: 5 / 9;
+}
+.most-popular-img:nth-child(5) {
+	grid-column: 2 / 3;
+	grid-row: 4 / 7;
+}
+.most-popular-img:nth-child(6) {
+	grid-column: 3 / 4;
+	grid-row: 3 / 7;
+}
+.most-popular-img:nth-child(7) {
+	grid-column: 2 / 4;
+	grid-row: 7 / 9;
+}
+/* CARDS / TOURS POPULARS */
+
+.most-popular-tours {
+	margin: auto;
+	width: 90%;
+}
+.card-tour-img img {
+	width: 405px;
+	display: inline-block;
+	border-radius: 10px 10px 0px 0px;
+}
+.card-tour-info {
+	background-color: #eee;
+	border-radius: 0px 0px 10px 10px;
+	display: inline-block;
+	width: 405px;
+	height: 200px;
+	margin: -5px 0;
+	padding: 10px;
+}
+.card-tour {
+	display: inline-block;
+	transition: .2s;
+}
+.card-tour:hover {
+	opacity: .9;
+}
+.text-tour {
+	color: #253e59;
+	display: inline-block;
+}
+.text-tour2, .text-tour3 {
+	margin-top: 5px;
+	font-size: 15px;
+	color: #111;
+}
+.text-tour1 {
+	font-size: 25px;
+}
+.text-tour4{
+	display: flex;
+	float: right;
+	font-size: 15px;
+}
+.text-tour5 {
+	font-size: 15px;
+}
+.text-tour6 {
+	font-size: 30px;
+}
+.text-tour5, .text-tour6 {
+	margin-top: 10px;
+	transform: translate(240px, 0);
+}
+.text-tour7, .text-tour8 {
+	color: #555;
+}
+.card-tour-footer-day {
+	position: absolute;
+	margin: 20px 0;
+}
+.card-tour4, .card-tour5, .card-tour6 {
+	margin-top: 10px;
+}
+.button-end {
+	padding-top: 15px;
+	margin: 20px auto;
+	width: 250px;
+	height: 50px;
+	background-color: #eb4e00;
+	border-radius: 50px;
+	transition: .2s;
+}
+.button-end:hover {
+	transform: scale(.95);
+}
+.button-a {
+	color: #feffe9;
+	display: flex;
+	justify-content: center;
+}
+/*FOOTER*/
+.footer-content {
+	width: 90%;
+	margin: auto;
+}
+.contain-footer {
+	height: 300px;
+	background-color: #253e59;
+	padding-top: 15px;
+}
+.payments img {
+	width: 70px;
+	margin: 0 10px;
+}
+
+.links-footer {
+	display: flex;
+	justify-content: center;
+}
+.a-footer {
+	color: #feffe9;
+	margin: 10px 20px;
+}
+.a-footer:hover {
+	opacity: .8;
+}
+.img-footer {
+	display: flex;
+	justify-content: center;
+}
+.fa-facebook {
+	color: #feffe9;
+}
+.fa-envelope {
+	color: #feffe9;
+}
+.icon-footer-whatsapp {
+	color: #feffe9;
+}
+
+.img-footer a i {
+	font-size: 50px;
+	margin: 20px;
+}
+.img-footer a i:hover {
+	opacity: .8;
+}
+.img-footer img {
+	object-fit: contain;
+}
+.sub-footer {
+	height: 100px;
+	background-color: #555;
+}
+.logo-footer {
+	width: 125px;
+	margin-top: 20px;
+}
+.qr-portafolio {
+	width: 100px;
+	float: right;
+	margin-right: 50px;
+}
+.text-end {
+	color: #fff;
+	position: absolute;
+	text-align: center;
+	transform: translate(50%, 0);
+	margin-top: 35px;
+	display: inline-block;
+} 
+/* BOGOTA PAGE */
+/* HEADER */
+.info-header-pages {
+	margin-top: -2px;
+	background-color: #999;
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	height: 70px;
+}
+.a-header-leng-pages {
+	color: #feffe9;
+}
+.a-header-leng-pages:hover {
+	opacity: 0.85;
+}
+
+/* RESPONSIVE */
+@media only screen and (max-width: 450px) {
+	.most-popular-tours {
+		width: 100%;
+	}
+}
+@media only screen and (min-width: 550px) {
+	.nav-responsive-ul {
+		display: none;
+
+	}
+	
+}
+@media only screen and (max-width: 900px) {
+	.main-subpage {
+		transform: translateY(60px);
+	}
+	.li-header3 a {
+		color: #fff;
+	}
+	.footer {
+		margin-top: 70px;
+	}
+	.info-header, .info-header-pages {
+		display: none;
+	}
+	.icon-responsive {
+		float: right;
+		font-size: 25px;
+		margin: 7px 10px 0 0;
+	}
+	.icon-responsive a i {
+		color: #fff;
+	}
+	.nav-responsive-button-container {
+		position: relative;
+	}
+
+	.nav-responsive-ul {
+		display: block;
+		position: fixed;
+		z-index: 100;
+		width: 100%;
+		height: 37px;
+	}
+
+	.nav-li-container {
+		position: relative;
+		top: -1000px;
+		height: calc(60vh - 64px);
+		background-image: url("Imagenes/fondo-nav-responsive.png");
+		background-repeat: no-repeat;
+		background-size: 500px 60vh;
+		transition: all 1s;
+		width: 75%;
+		z-index: 8;
+	}
+
+	.nav {
+		height: 365.39 37px;
+		width: 100%;
+		background-color: #9F9F9F;
+	}
+
+	.nav-li-responsive {
+		width: 100%;
+		padding: 30px 20px;
+		font-size: 20px;
+	}
+	.nav-li-responsive a {
+		color: #fff;
+		font-weight: bold;
+	}
+
+	.nav-li-responsive i {
+		box-sizing: border-box;
+		text-align: center;
+		margin-right: 5px;
+		width: 30px;
+		margin-top: 37px;
+
+	}
+
+	.nav-responsive-button {
+		height: 45px;
+		width: 100%;
+		background-color: #67799d ;
+		z-index: 100;
+		position: absolute;
+	}
+
+	.nav-responsive-ul:hover > .nav-li-container {
+		top: 0;
+	}
+
+	.most-popular-destinations {
+		margin-top: 30px;
+		position: absolute;
+		height: 50px;
+	}
+
+	.most-popular-tours {
+		margin-top: 20px;
+	}
+
+	.grid-container {
+		grid-template-columns: auto;
+		margin:  0 0 0 20px;
+	}
+
+	.title-populars2 {
+		margin-top: 915px;
+	}
+
+	.img-payments-footer:nth-child(5) {
+		display: none;
+	}
+
+	.img-payments-footer:nth-child(6) {
+		display: none;
+	}
+
+	.text-end {
+		display: none;
+	}
+
+}

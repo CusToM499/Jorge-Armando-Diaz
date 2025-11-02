@@ -1,0 +1,295 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="../bogota.css">
+	<link rel="stylesheet" type="text/css" href="../../../../style.css">
+	<!-- FONTS -->
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap" rel="stylesheet"> 
+	<!-- ICONS -->
+	<script src="https://kit.fontawesome.com/99f28131b8.js" crossorigin="anonymous"></script>
+	<title>EXPLORA (+57) - JARDIN BOTANICO</title>
+	<!-- -----------------------------------------IMAGES DEMOSTRATION FANCYBOX----------------------------------------- -->
+	<!-- Add jQuery library -->
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	
+	<!-- Add mousewheel plugin (this is optional) -->
+	<script type="text/javascript" src="fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+	
+	<!-- Add fancyBox -->
+	<link rel="stylesheet" href="fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+	<script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+	
+	<!-- Optionally add helpers - button, thumbnail and/or media -->
+	<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+	<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+	<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+	
+	<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+	<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+	<script>
+	
+		$(function(){
+		
+			$(".single-image").fancybox({
+				openEffect : 'elastic',   //'fade', 'elastic'
+		    	closeEffect	: 'elastic',
+		    	openSpeed:'normal', //ms, slow, normal, fast (default 250ms)
+		    	closeSpeed:'normal',
+		    	helpers : {
+		    		title : {
+		    			type : 'inside' //'float', 'inside', 'outside' or 'over'
+		    		},
+		    		overlay : {
+		    			closeClick : true  // if true, se cierra al hacer click fuera de la imagen
+       			    }
+		    	},
+		    	padding:11
+		    	
+			});
+			
+			$(".gallery-image").fancybox({
+				openEffect : 'fade', 
+		    	closeEffect	: 'fade',
+		    	closeBtn: false,
+		    	helpers : {
+		    		title : {
+		    			type : 'inside' //'float', 'inside', 'outside' or 'over'
+		    		},
+		    		thumbs : {
+			            width: 50
+			        },
+			        buttons	: {},
+			        overlay : {
+			            css : {
+			                'background' : 'rgba(0,0,0,0.5)'
+			            }
+        			}
+					
+		    	}
+		    			    	
+			});
+			
+			
+			$(".fancyOther").fancybox({
+				width		: '70%',
+				height		: '70%',
+				maxWidth	: 800,
+				maxHeight	: 600,
+				fitToView	: false,
+				autoSize	: false,
+				closeClick	: false,
+				openEffect	: 'none',
+				closeEffect	: 'none'
+			});
+			
+			
+			$(".fancyOther2").click(function(){
+				$.fancybox( '<div><h1>Lorem Lipsum</h1><p>Lorem lipsum</p></div>', {
+   					 title : 'Custom Title',
+   					 width		: '70%',
+					height		: '70%',
+					maxWidth	: 800,
+					maxHeight	: 600,
+					fitToView	: false,
+					autoSize	: false,
+					closeClick	: false	 
+				});
+			});
+			
+			
+			$(".fancyMedia").fancybox({	
+				helpers : {
+					media : {}
+				}
+			});
+			
+			$(".fancyMediaMapa").fancybox({	
+				helpers : {
+					media : {}
+				},
+				 width		: '100%',
+				height		: '100%'
+				
+			});
+
+			
+			
+		
+			
+		});
+		
+	</script>
+</head>
+<body>
+	<div class="content-page">
+		<div class="header">
+			<header>
+				<div class="content-header">
+					<ul class="info-header-pages">
+						<img src="../../../../Imagenes/logo.png" class="logo">
+						<div class="header-navegation">
+							<li class="li-header li-header1"><a href="#" class="a-header">Actividades<img src="../../../../Imagenes/arrow-header-bottom.png" class="arrow"></a>
+								<ul class="bar-header bar-header1">
+									<li><a href="../../../../pages-activities-nav/culturales/culturales.html">Visitas Culturales</a></li><br>
+									<li><a href="../../../../pages-activities-nav/senderismo/senderismo.html">Caminatas, Senderismo</a></li><br>
+									<li><a href="../../../../pages-activities-nav/acuaticas/acuaticas.html">Actividades Acuaticas</a></li><br>
+									<li><a href="../../../../pages-activities-nav/gastronomia/gastronomia.html">Gastronomia</a></li><br>
+									<li><a href="../../../../pages-activities-nav/fauna-flora/fauna-flora.html">Fauna y Flora</a></li><br>
+									<li><a href="../../../../pages-activities-nav/museos/museos.html">Museos Monumentos</a></li><br>
+									<li><a href="../../../../pages-activities-nav/artesanias/artesanias.html">Artesanias</a></li><br>
+									<li><a href="../../../../pages-activities-nav/buceo/buceo.html">Buceo</a></li><br>
+									<li><a href="../../../../pages-activities-nav/paseos-caballo/paseos-caballo.html">Paseos en Caballo</a></li><br>
+									<li><a href="../../../../pages-activities-nav/arqueologia/arqueologia.html">Visitas Arqueologicas</a></li><br>
+									<li><a href="../../../../pages-activities-nav/shows/shows.html">Shows y Espectaculos</a></li><br>
+									<li><a href="../../../../pages-activities-nav/cata-licores/cata-licores.html">Cata de Vinos y Licores</a></li><br>
+									<li><a href="../../../../pages-activities-nav/escalada/escalada.html">Escalada</a></li><br>
+									<li><a href="../../../../pages-activities-nav/termales/termales.html">Termales</a></li><br>
+									<li><a href="../../../../pages-activities-nav/cuatrimotos/cuatrimotos.html">Cuatrimotos, Quads</a></li><br>
+									<li><a href="../../../../pages-activities-nav/parapente/parapente.html">Parapente</a></li><br>
+									<li><a href="../../../../pages-activities-nav/pesca/pesca.html">Pesca</a></li><br>
+									<li><a href="../../../../pages-activities-nav/aereo/aereo.html">Actividades Aereas</a></li><br>
+									<li><a href="../../../../pages-activities-nav/rapel/rapel.html">Rapel</a></li><br>
+									<li><a href="../../../../pages-activities-nav/canotaje/canotaje.html">Canotaje</a></li><br>
+								</ul>
+							</li>
+							<li class="li-header li-header2"><a href="#" class="a-header">Lugares<img src="../../../../Imagenes/arrow-header-bottom.png" class="arrow"></a>
+								<ul class="bar-header bar-header2">
+									<li><a href="../../../../city-tours/antioquia/antioquia.html">Antioquia</a></li><br>
+									<li><a href="../../../../city-tours/boyaca/boyaca.html">Boyacá</a></li><br>
+									<li><a href="../../../../city-tours/cundinamarca/cundinamarca.html">Cundinamarca</a></li><br>
+									<li><a href="../../../../city-tours/huila/huila.html">Huila</a></li><br>
+									<li><a href="../../../../city-tours/meta/meta.html">Meta</a></li><br>
+									<li><a href="../../../../city-tours/risaralda/risaralda.html">Risaralda</a></li><br>
+									<li><a href="../../../../city-tours/tolima/tolima.html">Tolima</a></li><br>
+									<li><a href="../../../../city-tours/santander/santander.html">Santander</a></li><br>		
+									<li><a href="../../../../city-tours/la-costa/costa.html">La Costa Caribe</a></li><br>		
+								</ul>
+							</li>
+						</div>
+						<li class="li-header li-header3"><a href="indexEn.html" class="a-header a-header-leng-pages">English</a></li>										
+						<li class="li-header li-header4"><a href="https://wa.me/573105820088"><i class="fa-solid fa-phone"></i></a></li>						
+						<li class="li-header li-header5"><a href="https://wa.me/573105820088" target="__BLANK"><i class="fa-brands fa-whatsapp whatsapp-header"></i></a></li>
+					</ul>
+				</div>
+			</header>
+			<!-- RESPONSIVE -->
+			<header>
+				<nav class="nav-responsive">
+					<ul class="nav-responsive-ul">
+					  <div class="nav-responsive-button-content">
+						<div class="nav-responsive-button-container">
+							<div class="nav-responsive-button">
+							  <li class="icon-responsive"><a href="#"><i class="fas fa-bars"></i></a></li>
+						    </div>
+						</div>
+					  </div>
+						<div class="nav-li-container">
+						    <li class="nav-li-responsive"><a href="../../../../pages-nav/activities/index.html"><i class="fa-solid fa-puzzle-piece"></i>Actividades</a></li>
+						    <li class="nav-li-responsive"><a href="../../../../pages-nav/places/index.html"><i class="fa-sharp fa-solid fa-place-of-worship"></i>Lugares</a></li>
+						    <li class="li-header li-header3"><a href="indexEn.html" class="a-header a-header-leng">English</a></li>										
+							<li class="li-header li-header4"><a href="https://wa.me/573105820088"><i class="fa-solid fa-phone"></i></a></li>						
+							<li class="li-header li-header5"><a href="https://wa.me/573105820088" target="__BLANK"><i class="fa-brands fa-whatsapp whatsapp-header"></i></a></li>
+						</div>
+					</ul>
+				</nav>
+			</header>
+		</div>
+		<div class="main-pages">
+			<main class="main-subpage">
+				<div class="cascada-links">
+					<a href="../../../../index.html" class="cascada-li-a">Inicio</a>
+					<img src="../../../../Imagenes/arrow-header-right.png" class="arrow-page arrow">
+					<ul class="cascada-ul">
+						<li class="cascada-a"><a href="../../antioquia.html" class="cascada-li-a">Tours Antioquia</a></li>
+					</ul>
+					<img src="../../../../Imagenes/arrow-header-right.png" class="arrow-page arrow">
+					<ul class="cascada-ul">
+						<li class="cascada-a"><a href="#" class="cascada-li-a">Jardin Botanico Medellin</a></li>
+					</ul>
+				</div>
+				<h1 class="title-page-tour">Jardin Botanico Medellin</h1>
+				<h1 class="categorie"><i class="fa-solid fa-ticket"></i>Categorias: Turismo Ecológico - Turismo Cultural - Turismo Temático - Rutas y Recorridos</h1><br>
+				<hr>
+				<div class="imgs-demostration">
+					<a class="gallery-image" rel="gallery" href="imgs3.jpg" title="Jardin Botanico Medellin"><img src="imgs3.jpg" class="img-demostration-slide" alt=""/></a>
+					<a class="gallery-image" rel="gallery" href="imgs2.jpg" title="Jardin Botanico Medellin"><img src="imgs2.jpg" class="img-demostration-slide" alt=""/></a>
+					<a class="gallery-image" rel="gallery" href="imgs1.jpg" title="Jardin Botanico Medellin"><img src="imgs1.jpg" class="img-demostration-slide" alt=""/></a><br>
+				</div>
+				<div class="info-tour">
+					<div class="description-tour">
+						<h1>Jardin Botanico Medellin</h1>
+						<p>El Jardín Botánico de Medellín Joaquín Antonio Uribe es un jardín botánico y una fundación privada de unas 13.2 hectáreas de extensión, ubicado en la ciudad colombiana de Medellín. Cuenta con un recinto para eventos llamado el Orquideorama, un lugar arquitectónico para la exposición de flores. El Jardín cuenta con la condición de ser centro de cultura y educación ambiental y botánica, de enorme riqueza florística, y alberga más de 1000 especies vivas y 4500 individuos.<br><br>
+						Hoy día convertido en un monumento a la naturaleza, transformado también en 2007 en joya arquitectónica, este lugar data del siglo XIX, cuando solo existía allí la llamada Casa de Baños el Edén, un restaurante familiar tipo estadero. Posteriormente, a principios del siglo XX se llamó sucesivamente Bosque Centenario de la Independencia y posteriormente solo El Bosque, apelativo con el cual duró más de 50 años, al igual que sus instalaciones tradicionales, un gran lago central con navegación en canoa de remos, paseos en burro y naturalmente algunas especies botánicas. </p>
+					</div>
+					<div class="start-tour description-tour">
+						<h1>Punto de Partida</h1>
+						<p>Punto de encuentro: Todos nuestros tours son privados, es decir que la fecha, hora y lugar de recogida pueden ser elegidos.</p>
+					</div>
+					<div class="itinerario-tour description-tour">
+						<h1>Itinerario</h1>
+						<p><i class="fa-solid fa-check"></i>A la hora de hacer la cotizacion se le otorgaran todos los tures disponibles</p><br>
+					</div>
+					<div class="include-tour description-tour">
+						<h1>Incluye</h1>
+						<p><i class="fa-solid fa-check"></i>Transporte y conductor</p>
+						<p><i class="fa-solid fa-check"></i>Acompañamiento permanente durante todo el tour.</p>
+					</div>
+					<div class="activities-tour description-tour">
+						<h1>Actividades</h1>
+						<p><i class="fa-solid fa-check"></i>Caminata, Senderismo (incluida)</p>
+						<p><i class="fa-solid fa-check"></i>Tour Ecologico (incluida)</p>
+						<p><i class="fa-solid fa-check"></i>Visitas culturales (incluida)</p>
+						<p><i class="fa-solid fa-check"></i>Fauna y Flora (incluida)</p>
+					</div>
+					<div class="communication-tour description-tour">
+						<h1>Informacion</h1>
+						<p>Para mas Informacion comunicarse a: <a href="https://wa.me/573105820088" target="__BLANK">WhatsApp</a></p>
+					</div>
+				</div>
+			</main>
+		</div>
+		<div class="footer">
+			<footer class="contain-footer">
+				<div class="footer-content">
+					<div class="contact">
+						<div class="img-footer">
+							<a href="https://wa.me/573105820088" target="__BLANK"><i class="fa-brands fa-whatsapp icon-footer-whatsapp"></i></a>
+							<a href="https://wa.me/573105820088" target="__BLANK"><i class="fa-brands fa-facebook"></i></a>
+							<a href="aboutme.html"><i class="fa-solid fa-envelope"></i></a>
+						</div>
+					</div>
+					<div class="links-footer">
+						<a href="../../../../index.html" class="a-footer">Inicio</a>
+						<a href="aboutme.html" class="a-footer">Sobre Nosotros</a>
+						<a href="https://wa.me/573105820088" target="__BLANK" class="a-footer">Contacto</a>
+					</div>
+					<div class="payments">
+						<div class="img-footer">
+							<img src="../../../../Imagenes/metodos-de-pago/daviplata.png" class="img-payments-footer">
+							<img src="../../../../Imagenes/metodos-de-pago/mastercard.png" class="img-payments-footer">
+							<img src="../../../../Imagenes/metodos-de-pago/nequi.png" class="img-payments-footer">
+							<img src="../../../../Imagenes/metodos-de-pago/paypal.png" class="img-payments-footer">
+							<img src="../../../../Imagenes/metodos-de-pago/visa.png" class="img-payments-footer">
+							<img src="../../../../Imagenes/metodos-de-pago/codensa.png" class="img-payments-footer">
+						</div>
+					</div>
+
+				</div>
+			</footer>
+			<footer>
+				<div class="sub-footer">
+					<img src="../../../../Imagenes/logo.png" class="logo-footer">
+					<p class="text-end">
+						Francisco Julian Agudelo Buitrago - Desarrollador de páginas web<br>©2023 - Créditos de la web
+					</p>
+					<img src="../../../../../qr-portafolio.png" class="qr-portafolio">
+				</div>
+			</footer>
+		</div>
+	</div>
+</body>
+</html>

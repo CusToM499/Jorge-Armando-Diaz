@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="../../style.css">
+	<link rel="stylesheet" type="text/css" href="bogota.css">
+	<!-- FONTS -->
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap" rel="stylesheet"> 
+	<!-- ICONS -->
+	<script src="https://kit.fontawesome.com/99f28131b8.js" crossorigin="anonymous"></script>
+	<title>NATIONAL TOURS - FAUNA AND FLORA ACTIVITIES</title>
+</head>
+<body>
+
+	<div class="header">
+			<header>
+				<div class="content-header">
+					<ul class="info-header-pages">
+						<a href="../../../../index.html">
+							<img src="../../Imagenes/logo.png" class="logo">
+						</a>
+						<div class="header-navegation">
+							<li class="li-header li-header1"><a href="#" class="a-header">Activities<img src="Imagenes/arrow-header-bottom.png" class="arrow"></a>
+								<ul class="bar-header bar-header1">
+									<li><a href="../../pages-activities-nav/culturales/culturales.html">Cultural visits</a></li><br>
+									<li><a href="../../pages-activities-nav/senderismo/senderismo.html">Walks, Hiking</a></li><br>
+									<li><a href="../../pages-activities-nav/acuaticas/acuaticas.html">Water activities</a></li><br>
+									<li><a href="../../pages-activities-nav/gastronomia/gastronomia.html">Gastronomy</a></li><br>
+									<li><a href="../../pages-activities-nav/fauna-flora/fauna-flora.html">Fauna and Flora</a></li><br>
+									<li><a href="../../pages-activities-nav/museos/museos.html">Monuments Museum</a></li><br>
+									<li><a href="../../pages-activities-nav/artesanias/artesanias.html">Handicrafts</a></li><br>
+									<li><a href="../../pages-activities-nav/buceo/buceo.html">Dive</a></li><br>
+									<li><a href="../../pages-activities-nav/paseos-caballo/paseos-caballo.html">Horse Riding</a></li><br>
+									<li><a href="../../pages-activities-nav/arqueologia/arqueologia.html">Archaeological Visits</a></li><br>
+									<li><a href="../../pages-activities-nav/shows/shows.html">Shows and Spectacles</a></li><br>
+									<li><a href="../../pages-activities-nav/cata-licores/cata-licores.html">Wine and Spirits Tasting</a></li><br>
+									<li><a href="../../pages-activities-nav/termales/termales.html">Thermal</a></li><br>
+									<li><a href="../../pages-activities-nav/cuatrimotos/cuatrimotos.html">ATVs, Quads</a></li><br>
+									<li><a href="../../pages-activities-nav/parapente/parapente.html">Paragliding</a></li><br>
+									<li><a href="../../pages-activities-nav/pesca/pesca.html">Fishing</a></li><br>
+									<li><a href="../../pages-activities-nav/aereo/aereo.html">Air Activities</a></li><br>
+									<li><a href="../../pages-activities-nav/rapel/rapel.html">Rappelling</a></li><br>
+									<li><a href="../../pages-activities-nav/canotaje/canotaje.html">Rafting</a></li><br>
+								</ul>
+							</li>
+							<li class="li-header li-header2"><a href="#" class="a-header">Places<img src="../../Imagenes/arrow-header-bottom.png" class="arrow"></a>
+								<ul class="bar-header bar-header2">
+									<li><a href="../../city-tours/antioquia/antioquia.html">Antioquia</a></li><br>
+									<li><a href="../../city-tours/boyaca/boyaca.html">Boyacá</a></li><br>
+									<li><a href="../../city-tours/cundinamarca/cundinamarca.html">Cundinamarca</a></li><br>
+									<li><a href="../../city-tours/huila/huila.html">Huila</a></li><br>
+									<li><a href="../../city-tours/meta/meta.html">Meta</a></li><br>
+									<li><a href="../../city-tours/risaralda/risaralda.html">Risaralda</a></li><br>
+									<li><a href="../../city-tours/tolima/tolima.html">Tolima</a></li><br>
+									<li><a href="../../city-tours/santander/santander.html">Santander</a></li><br>		
+									<li><a href="../../city-tours/la-costa/costa.html">La Costa Caribe</a></li><br>		
+								</ul>
+							</li>
+						</div>
+						<li class="li-header li-header3"><a href="fauna-flora.html" class="a-header a-header-leng">Español</a></li>										
+						<li class="li-header li-header4"><a href="https://wa.me/573105820088‬"><i class="fa-solid fa-phone"></i></a></li>						
+						<li class="li-header li-header5"><a href="https://wa.me/573105820088‬" target="__BLANK"><i class="fa-brands fa-whatsapp whatsapp-header"></i></a></li>
+					</ul>
+				</div>
+			</header>
+			<!-- RESPONSIVE -->
+			<header>
+				<nav class="nav-responsive">
+					<ul class="nav-responsive-ul">
+					  <div class="nav-responsive-button-content">
+						<div class="nav-responsive-button-container">
+							<div class="nav-responsive-button">
+							  <li class="icon-responsive"><a href="#"><i class="fas fa-bars"></i></a></li>
+						    </div>
+						</div>
+					  </div>
+						<div class="nav-li-container">
+						    <li class="nav-li-responsive"><a href="../../pages-nav/activities/index.html"><i class="fa-solid fa-puzzle-piece"></i>Activities</a></li>
+						    <li class="nav-li-responsive"><a href="../../pages-nav/places/index.html"><i class="fa-sharp fa-solid fa-place-of-worship"></i>Places</a></li>
+						    <div class="container-contact-nav">
+							    <li class="li-header li-header3"><a href="fauna-flora.html" class="a-header a-header-leng">Español</a></li>										
+								<li class="li-header li-header4"><a href="https://wa.me/573105820088‬"><i class="fa-solid fa-phone"></i></a></li>						
+								<li class="li-header li-header5"><a href="https://wa.me/573105820088‬" target="__BLANK"><i class="fa-brands fa-whatsapp whatsapp-header"></i></a></li>
+						    </div>
+						</div>
+					</ul>
+				</nav>
+			</header>
+		</div>
+
+
+
+		<div class="main-pages">
+			<main>
+				<div class="container-page-bogota">
+					<h1 class="title-populars title-populars1-bug">Destinos Populares</h1>	
+					<h1 class="title-page">Fauna and Flora Tours</h1>
+					<a href="../../city-tours/antioquia/extra/jardin-botanico/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/antioquia/extra/jardin-botanico/jardin.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Medellin Botanical Garden</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Medellin</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/antioquia/medellin/tours/hacienda-napoles/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/antioquia/medellin/tours/hacienda-napoles/napoles.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Hacienda Napoles</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Puerto Triunfo</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Aquatic Activities</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/boyaca/raquira/tours/cascada-el-anillo/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/boyaca/raquira/tours/cascada-el-anillo/cascada.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">The Ring Waterfall</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Raquira</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/boyaca/villa-de-leyva/tours/granja-avestruces/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/boyaca/villa-de-leyva/tours/granja-avestruces/granja.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Ostrich Farm</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Villa de Leyva</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/boyaca/villa-de-leyva/tours/pozo-azul/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/boyaca/villa-de-leyva/tours/pozo-azul/pozo.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Blue Well</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Villa de Leyva</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/cundinamarca/extra/choachi/la-chorrera/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/cundinamarca/extra/choachi/la-chorrera/chorrera.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">The Chorrera</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Choachi</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/cundinamarca/extra/choachi/paramo-verjon/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/cundinamarca/extra/choachi/paramo-verjon/paramo.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Paramo Verjon</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Choachi</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/cundinamarca/extra/guatavita/cerro-montecillo/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/cundinamarca/extra/guatavita/cerro-montecillo/cerro.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Montecillo Hill</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Guatavita</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Viewpoint</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/cundinamarca/extra/guatavita/embalse-tomine/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/cundinamarca/extra/guatavita/embalse-tomine/embalse.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Tomine Reservoir</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Guatavita</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/cundinamarca/extra/guatavita/laguna-guatavita/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/cundinamarca/extra/guatavita/laguna-guatavita/laguna.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Guatavita Lagoon</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Guatavita</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/cundinamarca/extra/salto-tequendama/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/cundinamarca/extra/salto-tequendama/salto.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Tequendama Falls</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Soacha</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Viewpoint, Architecture</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/cundinamarca/extra/sopo/cerro-pinono/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/cundinamarca/extra/sopo/cerro-pinono/cerro.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Cerro Pinono</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Sopo</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Viewpoint</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/cundinamarca/extra/sopo/parque-puente-sopo/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/cundinamarca/extra/sopo/parque-puente-sopo/parque.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Sopo Bridge Park</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Sopo</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/extra/montana/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/extra/montana/montana.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Montana Echological Tourism</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>La Calera</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Paragliding, ATVs, Hiking, Horseback Riding</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/huila/extra/desierto/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/huila/extra/desierto/desierto.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Tatacoa Desert</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Huila</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/la-costa/extra/santa-marta/parque-tayrona/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/la-costa/extra/santa-marta/parque-tayrona/parque.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Tayrona Park</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Santa Marta</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Historical Visit</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/meta/extra/caño-cristales/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/meta/extra/caño-cristales/caño-cristales.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Crystal Spout</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>La Macarena</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/meta/extra/cañon-rio-guejar/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/meta/extra/cañon-rio-guejar/rio.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Guejar River Canyon</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Meta</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Canoeing</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/risaralda/extra/laguna-otun/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/risaralda/extra/laguna-otun/laguna.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Otun Lagoon</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Risaralda</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/risaralda/extra/parque-nacional-nevados/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/risaralda/extra/parque-nacional-nevados/parque.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Nevados National Park</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Risaralda</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/risaralda/extra/santa-rosa-cabal/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/risaralda/extra/santa-rosa-cabal/cabal.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Saint Rose of Cabal</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Risaralda</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/risaralda/extra/tour-cafetero/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/risaralda/extra/tour-cafetero/cafe.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Colombian Coffee Tour</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Risaralda</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/risaralda/extra/tour-eje-cafetero/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/risaralda/extra/tour-eje-cafetero/eje.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Tour of the Coffee Axis</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Eje Cafetero</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/risaralda/extra/ukumari/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/risaralda/extra/ukumari/ukumari.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Ukumari Park</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Risaralda</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/santander/barichara/tours/bioparque-moncora/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/santander/barichara/tours/bioparque-moncora/parque.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Moncora Biopark</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Barichara</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/santander/barichara/tours/mirador-mico/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/santander/barichara/tours/mirador-mico/mico.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Salto del Mico Viewpoint</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Barichara</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Viewpoint</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/santander/extra/chicamocha/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/santander/extra/chicamocha/cañon.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Chicamocha canyon</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Santander</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Viewpoint</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/tolima/extra/cañon-combeima/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/tolima/extra/cañon-combeima/cañon.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Combeima Canyon</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Ibague</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Viewpoint</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/tolima/extra/nevado/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/tolima/extra/nevado/nevado.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Snowy Tolima</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Tolima</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Viewpoint</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/tolima/extra/palmas-cera/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/tolima/extra/palmas-cera/palmas.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Wax Palms</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Tolima</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="../../city-tours/tolima/extra/piscilago/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="../../city-tours/tolima/extra/piscilago/piscilago.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Picsilago Recreational Park</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Melgar</h3>
+							           <h3 class="activities1">Activities</h3>
+							           <p class="activities2">Fauna and Flora, Thematic Tour, Cultural Visit, Ecological Tour, Aquatic Activities</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Full Day (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+				</div>
+			</main>
+		</div>
+
+
+
+		<div class="footer">
+			<footer class="contain-footer">
+				<div class="footer-content">
+					<div class="contact">
+						<div class="img-footer">
+							<a href="https://wa.me/573105820088‬" target="__BLANK"><i class="fa-brands fa-whatsapp icon-footer-whatsapp"></i></a>
+							<a href="https://wa.me/573105820088‬" target="__BLANK"><i class="fa-brands fa-facebook"></i></a>
+							<a href="aboutme.html"><i class="fa-solid fa-envelope"></i></a>
+						</div>
+					</div>
+					<div class="links-footer">
+						<a href="../../index.html" class="a-footer">Home</a>
+						<a href="aboutme.html" class="a-footer">About me</a>
+						<a href="https://wa.me/573105820088‬" target="__BLANK" class="a-footer">Contact</a>
+					</div>
+					<div class="payments">
+						<div class="img-footer">
+							<img src="../../Imagenes/metodos-de-pago/daviplata.png" class="img-payments-footer">
+							<img src="../../Imagenes/metodos-de-pago/mastercard.png" class="img-payments-footer">
+							<img src="../../Imagenes/metodos-de-pago/nequi.png" class="img-payments-footer">
+							<img src="../../Imagenes/metodos-de-pago/paypal.png" class="img-payments-footer">
+							<img src="../../Imagenes/metodos-de-pago/visa.png" class="img-payments-footer">
+							<img src="../../Imagenes/metodos-de-pago/codensa.png" class="img-payments-footer">
+						</div>
+					</div>
+
+				</div>
+			</footer>
+			<footer>
+				<div class="sub-footer">
+					<img src="../../Imagenes/logo.png" class="logo-footer">
+					<p class="text-end">
+						Francisco Julian Agudelo Buitrago - Desarrollador de páginas web<br>©2023 - Créditos de la web
+					</p>
+					<img src="../../qr-portafolio.png" class="qr-portafolio">
+				</div>
+			</footer>
+		</div>
+</body>
+</html>

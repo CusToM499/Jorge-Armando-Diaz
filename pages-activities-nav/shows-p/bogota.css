@@ -1,0 +1,81 @@
+.header-navegation {
+  z-index: 100;
+}
+.title-page {
+	text-align: center;
+}
+
+.titulo {
+  margin-top: 0;
+  margin-bottom: .5rem;
+  font-size: 2rem;
+  line-height: 1.2;
+  position: absolute;
+  z-index: 5;
+}
+.tarjeta {
+  max-width: 90%;
+  margin: 48px auto;
+  display: block;
+  border-radius: 10px;
+  border: 1px solid #aaa;
+  overflow: hidden;
+}
+.contenido {
+  display: flex;
+}
+@media (max-width: 1024px){
+  .contenido{
+  flex-direction: column;
+  }
+  .tarjeta {
+   max-width: 90%;
+  }
+}
+.ladoIzq, .ladoDer {
+  width: 100%;
+}
+.ladoIzq {
+	width: 200%;
+}
+.ladoDer img {
+  width: 100%;
+  height: 100%;
+  border-style: none;
+}
+.ladoIzq {
+  background: #ccc;
+  color: #253e59;
+  padding: 20px;
+}
+.country {
+	float: right;
+	margin-top: -65px;
+	color: #333;
+}
+.country i {
+	margin-right: 5px;
+    color: #333;
+
+}
+.activities1 {
+	margin-top: 70px;
+	font-size: 20px;
+	color: #555;
+}
+.activities2 {
+	color: #555;
+	font-size: 19px;
+}
+.time {
+	margin: 100px 20px 0;
+	color: #333;
+} 
+.time i {
+  margin-right: 5px;
+}
+@media only screen and (max-width: 900px) {
+  .title-page {
+    margin-top: 45px;
+  }
+}

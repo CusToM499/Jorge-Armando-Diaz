@@ -1,0 +1,64 @@
+.main-subpage {
+	width: 95%;
+	margin: auto;
+}
+.title-page-tour {
+	font-size: 30px;
+}
+.arrow-page {
+	filter: invert(100%);
+}
+.cascada-li-a {
+	color: #565360;
+}
+.cascada-ul {
+	display: inline-block;
+	margin: 0 0 0 15px;
+}
+
+.categorie {
+	font-size: 20px;
+}
+.categorie i {
+	margin-right: 3px;
+}
+.imgs-demostration {
+	margin: 10px auto 0;
+	width: 94%;
+}
+.img-demostration-slide {
+	width: 400px;
+	height: 225px;
+	border-radius: 10px;
+}
+.description-tour {
+	margin: 10px auto 0;
+	width: 95%;
+	border: 1px solid #e1dfe9;
+	border-radius: 25px;
+	padding: 30px;
+}
+.description-tour p {
+	color: #565360;
+	margin: 5px 0;
+}
+.description-tour p i {
+	margin-right: 5px;
+}
+.description-tour h1 {
+	margin-bottom: 10px;
+	font-size: 24px;
+	font-weight: bold;
+	
+}
+.communication-tour {
+	margin-bottom: 15px;
+}
+@media only screen and (max-width: 450px) {
+	.imgs-demostration {
+		margin: 0 0 0 -5px;
+	}
+}
+
+/* FANCYBOX */
+

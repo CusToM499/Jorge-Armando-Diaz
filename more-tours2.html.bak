@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="city-tours/antioquia/medellin/../../../style.css">
+	<link rel="stylesheet" type="text/css" href="city-tours/antioquia/medellin/bogota.css">
+	<!-- FONTS -->
+	<link href="https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap" rel="stylesheet"> 
+	<!-- ICONS -->
+	<script src="https://kit.fontawesome.com/99f28131b8.js" crossorigin="anonymous"></script>
+	<title>EXPLORA (+57) - COLOMBIA</title>
+</head>
+<body>
+	<div class="header">
+			<header>
+				<div class="content-header">
+					<ul class="info-header-pages">
+						<a href="index.html">
+							<img src="Imagenes/logo.png" class="logo">
+						</a>
+						<div class="header-navegation">
+							<li class="li-header li-header1"><a href="#" class="a-header">Actividades<img src="Imagenes/arrow-header-bottom.png" class="arrow"></a>
+								<ul class="bar-header bar-header1">
+									<li><a href="pages-activities-nav/culturales/culturales.html">Visitas Culturales</a></li><br>
+									<li><a href="pages-activities-nav/senderismo/senderismo.html">Caminatas, Senderismo</a></li><br>
+									<li><a href="pages-activities-nav/acuaticas/acuaticas.html">Actividades Acuaticas</a></li><br>
+									<li><a href="pages-activities-nav/gastronomia/gastronomia.html">Gastronomia</a></li><br>
+									<li><a href="pages-activities-nav/fauna-flora/fauna-flora.html">Fauna y Flora</a></li><br>
+									<li><a href="pages-activities-nav/museos/museos.html">Museos Monumentos</a></li><br>
+									<li><a href="pages-activities-nav/artesanias/artesanias.html">Artesanias</a></li><br>
+									<li><a href="pages-activities-nav/buceo/buceo.html">Buceo</a></li><br>
+									<li><a href="pages-activities-nav/paseos-caballo/paseos-caballo.html">Paseos en Caballo</a></li><br>
+									<li><a href="pages-activities-nav/arqueologia/arqueologia.html">Visitas Arqueologicas</a></li><br>
+									<li><a href="pages-activities-nav/shows/shows.html">Shows y Espectaculos</a></li><br>
+									<li><a href="pages-activities-nav/cata-licores/cata-licores.html">Cata de Vinos y Licores</a></li><br>
+									<li><a href="pages-activities-nav/escalada/escalada.html">Escalada</a></li><br>
+									<li><a href="pages-activities-nav/termales/termales.html">Termales</a></li><br>
+									<li><a href="pages-activities-nav/cuatrimotos/cuatrimotos.html">Cuatrimotos, Quads</a></li><br>
+									<li><a href="pages-activities-nav/parapente/parapente.html">Parapente</a></li><br>
+									<li><a href="pages-activities-nav/pesca/pesca.html">Pesca</a></li><br>
+									<li><a href="pages-activities-nav/aereo/aereo.html">Actividades Aereas</a></li><br>
+									<li><a href="pages-activities-nav/rapel/rapel.html">Rapel</a></li><br>
+									<li><a href="pages-activities-nav/ canotaje/canotaje.html">Canotaje</a></li><br>
+								</ul>
+							</li>
+							<li class="li-header li-header2"><a href="#" class="a-header">Lugares<img src="Imagenes/arrow-header-bottom.png" class="arrow"></a>
+								<ul class="bar-header bar-header2">
+									<li><a href="city-tours/antioquia/antioquia.html">Antioquia</a></li><br>
+									<li><a href="city-tours/boyaca/boyaca.html">Boyacá</a></li><br>
+									<li><a href="city-tours/cundinamarca/cundinamarca.html">Cundinamarca</a></li><br>
+									<li><a href="city-tours/huila/huila.html">Huila</a></li><br>
+									<li><a href="city-tours/meta/meta.html">Meta</a></li><br>
+									<li><a href="city-tours/risaralda/risaralda.html">Risaralda</a></li><br>
+									<li><a href="city-tours/tolima/tolima.html">Tolima</a></li><br>							
+									<li><a href="city-tours/santander/santander.html">Santander</a></li><br>							
+									<li><a href="city-tours/la-costa/la-costa.html">La Costa Caribe</a></li><br>							
+								</ul>
+							</li>
+						</div>
+						<li class="li-header li-header3"><a href="indexEn.html" class="a-header a-header-leng-pages">English</a></li>										
+						<li class="li-header li-header4"><a href="#"><i class="fa-solid fa-phone"></i></a></li>						
+						<li class="li-header li-header5"><a href="https://wa.me/573105820088‬" target="__BLANK"><i class="fa-brands fa-whatsapp whatsapp-header"></i></a></li>
+					</ul>
+				</div>
+			</header>
+			<!-- RESPONSIVE -->
+			<header>
+				<nav class="nav-responsive">
+					<ul class="nav-responsive-ul">
+					  <div class="nav-responsive-button-content">
+						<div class="nav-responsive-button-container">
+							<div class="nav-responsive-button">
+							  <li class="icon-responsive"><a href="#"><i class="fas fa-bars"></i></a></li>
+						    </div>
+						</div>
+					  </div>
+						<div class="nav-li-container">
+						    <li class="nav-li-responsive"><a href="pages-nav/activities/index.html"><i class="fa-solid fa-puzzle-piece"></i>Actividades</a></li>
+						    <li class="nav-li-responsive"><a href="pages-nav/places/index.html"><i class="fa-sharp fa-solid fa-place-of-worship"></i>Lugares</a></li>
+						    <li class="li-header li-header3"><a href="indexEn.html" class="a-header a-header-leng">English</a></li>										
+							<li class="li-header li-header4"><a href="#"><i class="fa-solid fa-phone"></i></a></li>		
+							<li class="li-header li-header5"><a href="https://wa.me/573105820088‬" target="__BLANK"><i class="fa-brands fa-whatsapp whatsapp-header"></i></a></li>
+						</div>
+					</ul>
+				</nav>
+			</header>
+		</div>
+		<div class="main-pages">
+			<main>
+				<div class="container-page-bogota">
+					<h1 class="title-populars title-populars1-bug">Destinos Populares</h1>
+
+					<h1 class="title-page">Tours Colombia</h1>
+					<a href="city-tours/la-costa/cartagena/tours/islas-rosario/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="city-tours/la-costa/cartagena/tours/islas-rosario/islas.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Islas del Rosario</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Cartagena</h3>
+							           <h3 class="activities1">Actividades</h3>
+							           <p class="activities2">Caminata, Visitas Guiadas, Tour Ecologico, Actividades Acuaticas</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Dia Completo (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="city-tours/antioquia/extra/recorrido-guatape/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="city-tours/antioquia/extra/recorrido-guatape/guatape.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Recorrido Guatape</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Guatape</h3>
+							           <h3 class="activities1">Actividades</h3>
+							           <p class="activities2">Visitas Historicas, Visitas Culturales, Mirador, Arquitectura</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Dia Completo (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="city-tours/cundinamarca/extra/sopo/parque-puente-sopo/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="city-tours/cundinamarca/extra/sopo/parque-puente-sopo/parque.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Parque Puente Sopo</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Sopo</h3>
+							           <h3 class="activities1">Actividades</h3>
+							           <p class="activities2">Tour Ecologico, Visitas Historicas, Visitas Guiadas, Rutas y Recorridos</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Dia Completo (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="city-tours/cundinamarca/extra/guatavita/casa-loca/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="city-tours/cundinamarca/extra/guatavita/casa-loca/casa.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Casa Loca</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Guatavita</h3>
+							           <h3 class="activities1">Actividades</h3>
+							           <p class="activities2">Tour Arquitectonico, Visitas Guiadas, Visita Historica</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Dia Completo (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="city-tours/cundinamarca/extra/choachi/paramo-verjon/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="city-tours/cundinamarca/extra/choachi/paramo-verjon/paramo.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Paramo Verjon</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Choachi</h3>
+							           <h3 class="activities1">Actividades</h3>
+							           <p class="activities2">Visitas Guiadas, Visitas Culturales, Turismo Ecologico, Rutas y Recorridos</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Dia Completo (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="city-tours/antioquia/extra/mirador-las-nubes/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="city-tours/antioquia/extra/mirador-las-nubes/mirador.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Cerro de las Nubes</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Jerico</h3>
+							           <h3 class="activities1">Actividades</h3>
+							           <p class="activities2">Visitas Guiadas, Mirador, Visitas Culturales, Turismo Ecologico, Fauna y Flora</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Dia Completo (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="city-tours/tolima/extra/piscilago/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="city-tours/tolima/extra/piscilago/piscilago.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Parque de Piscilago</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Melgar</h3>
+							           <h3 class="activities1">Actividades</h3>
+							           <p class="activities2">Visitas Guiadas, Visitas Culturales, Actividades Acuaticas, Zoologico, Fauna y Flora</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Dia Completo (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="city-tours/santander/extra/san-gil-tour/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="city-tours/santander/extra/san-gil-tour/san-gil.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">San Gil</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Santander</h3>
+							           <h3 class="activities1">Actividades</h3>
+							           <p class="activities2">Visitas Guiadas, Visitas Historicas, Visitas Culturales, Museos, Caminata, Canotaje</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Dia Completo (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+					<a href="city-tours/la-costa/extra/barranquilla/bocas-ceniza/index.html">
+						<div class="tarjeta">
+						    <div class="contenido">
+							    <div class="ladoDer">
+							    	<img src="city-tours/la-costa/extra/barranquilla/bocas-ceniza/bocas.jpg">
+								</div>
+						        <div class="ladoIzq">
+							       <h2 class="titulo">Bocas de Cenizas</h2>
+							       <div class="cuerpo">
+								       <h3 class="country"><i class="fa-solid fa-location-dot text-tour text-tour2"></i>Barranquilla</h3>
+							           <h3 class="activities1">Actividades</h3>
+							           <p class="activities2">Visitas Guiadas, Visitas Historicas, Visitas Culturales, Turismo Ecologico, Rutas y Recorridos, Fauna y Flora</p>
+							           <h3 class="time"><i class="fa-solid fa-clock text-tour text-tour8"></i>Dia Completo (1)</h3>
+							       </div>
+							    </div>
+						    </div>
+						</div>
+					</a>
+				</div>
+			</main>
+		</div>
+		<div class="footer">
+			<footer class="contain-footer">
+				<div class="footer-content">
+					<div class="contact">
+						<div class="img-footer">
+							<a href="https://wa.me/573105820088‬" target="__BLANK"><i class="fa-brands fa-whatsapp icon-footer-whatsapp"></i></a>
+							<a href="https://wa.me/573105820088‬" target="__BLANK"><i class="fa-brands fa-facebook"></i></a>
+							<a href="#"><i class="fa-solid fa-envelope"></i></a>
+						</div>
+					</div>
+					<div class="links-footer">
+						<a href="city-tours/antioquia/medellin/../../../index.html" class="a-footer">Inicio</a>
+						<a href="#" class="a-footer">Sobre Nosotros</a>
+						<a href="https://wa.me/573105820088‬" target="__BLANK" class="a-footer">Contacto</a>
+					</div>
+					<div class="payments">
+						<div class="img-footer">
+							<img src="city-tours/antioquia/medellin/../../../Imagenes/metodos-de-pago/daviplata.png" class="img-payments-footer">
+							<img src="city-tours/antioquia/medellin/../../../Imagenes/metodos-de-pago/mastercard.png" class="img-payments-footer">
+							<img src="city-tours/antioquia/medellin/../../../Imagenes/metodos-de-pago/nequi.png" class="img-payments-footer">
+							<img src="city-tours/antioquia/medellin/../../../Imagenes/metodos-de-pago/paypal.png" class="img-payments-footer">
+							<img src="city-tours/antioquia/medellin/../../../Imagenes/metodos-de-pago/visa.png" class="img-payments-footer">
+							<img src="city-tours/antioquia/medellin/../../../Imagenes/metodos-de-pago/codensa.png" class="img-payments-footer">
+						</div>
+					</div>
+
+				</div>
+			</footer>
+			<footer>
+				<div class="sub-footer">
+					<img src="city-tours/antioquia/medellin/../../../Imagenes/logo.png" class="logo-footer">
+					<p class="text-end">
+						Francisco Julian Agudelo Buitrago - Desarrollador de páginas web<br>©2023 - Créditos de la web
+					</p>
+					<img src="city-tours/antioquia/medellin/../../../qr-portafolio.png" class="qr-portafolio">
+				</div>
+			</footer>
+		</div>
+</body>
+</html>
